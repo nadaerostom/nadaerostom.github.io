@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nadaerostom-source.github.io/sitemap.xml
+Sitemap: https://nadaerostom.github.io/sitemap.xml
