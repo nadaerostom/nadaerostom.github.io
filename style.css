@@ -85,6 +85,7 @@ h3 { font-size: 1.08rem; margin: 0 0 4px; }
   width: 200px; height: 200px; object-fit: cover; border-radius: 50%;
   border: 1px solid var(--border); background: var(--accent-soft);
 }
+.hero.no-photo { grid-template-columns: 1fr; }
 .role { color: var(--muted); font-size: 1.02rem; margin: 0 0 18px; }
 .contact-links { display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0 0; padding: 0; list-style: none; }
 .contact-links a {
