@@ -140,6 +140,9 @@ h3 { font-size: 1.08rem; margin: 0 0 4px; }
   margin-left: 6px;
   vertical-align: 2px;
 }
+.section-note { margin: -6px 0 20px; font-size: 0.95rem; }
+h3.subhead { font-family: var(--sans); font-size: 0.8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin: 28px 0 14px; }
+
 figure { margin: 0 0 10px; }
 figure img { width: 100%; border-radius: 8px; display: block; }
 figcaption { font-size: 0.85rem; color: var(--muted); margin-top: 6px; }
